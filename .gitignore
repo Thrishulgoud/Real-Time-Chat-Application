@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+.yarn-integrity
+
+# Server & client node_modules
+/server/node_modules/
+/client/node_modules/
+
+# Build outputs
+/client/build/
+/dist/
+
+# Env
+.env
+server/.env
+client/.env
+
+# OS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Misc
+.vscode/
+.idea/
