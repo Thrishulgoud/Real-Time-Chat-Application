@@ -42,8 +42,8 @@ A full-stack real-time chat application with features like one-on-one messaging,
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd real-time-chat-app
+git clone https://github.com/Thrishulgoud/Real-Time-Chat-Application.git
+cd Real-Time-Chat-Application
 ```
 
 2. Install server dependencies:
@@ -89,7 +89,13 @@ cd client
 npm start
 ```
 
-The application will be available at http://localhost:3000
+After starting both the server and client, open your web browser and navigate to http://localhost:3000 on your local machine.
+
+**Important Note:** 
+- The application must be running on your local machine for this URL to work
+- Clicking this link from GitHub or any other website will not work
+- You must complete all installation and setup steps before accessing the application
+- Both server and client must be running simultaneously
 
 ## Security Considerations
 
